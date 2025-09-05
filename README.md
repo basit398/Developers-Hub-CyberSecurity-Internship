@@ -77,9 +77,9 @@ The project was divided into **three major tasks** covering security assessment,
 
 ## 📂 Repository Contents
 
-Task-1-Internship-report.pdf
-Task-2-Internship-report.pdf
-Task-3-Internship-report.pdf
+* Task-1-Internship-report.pdf
+* Task-2-Internship-report.pdf
+* Task-3-Internship-report.pdf
 * **Source Code** – OWASP Juice Shop application (modified during tasks).
 
 ---
